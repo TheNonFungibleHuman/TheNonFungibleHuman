@@ -3,7 +3,7 @@
 # Hanif Olayiwola
 
 **AI Systems Builder & Full-Stack Software Engineer**  
-BSc. Computer Science @ [African Leadership College of Higher Education (ALCHE)](https://alche.edu.mu/) — Mauritius 🇲🇺
+BSc. Computer Science @ [African Leadership College of Higher Education (ALCHE)](https://alcheducation.com/) — Mauritius 🇲🇺
 
 <p align="center">
   <a href="https://www.hanifolayiwola.com"><img src="https://img.shields.io/badge/Portfolio-hanifolayiwola.com-0f172a?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
