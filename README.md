@@ -22,19 +22,6 @@ I'm a second-year Computer Science undergrad at ALCHE with a big appetite for st
 
 ---
 
-### 🚀 Flagship Systems & Proof-of-Work
-
-| System | Architecture & Engineering Highlights | Stack |
-| :--- | :--- | :--- |
-| **[Grabbit Dispatch Engine](https://github.com/TheNonFungibleHuman/grabbit-dispatch-engine)** <br><sub>*Autonomous AI WhatsApp Dispatcher*</sub> | • Built a 24/7 autonomous WhatsApp dispatcher for electric delivery & ride fleets credited with increasing operational efficiency by **80%** at Grabbit Express.<br>• Designed a **0-token deterministic receipt parser** using native Node.js zlib stream inflation and text-operator extraction, bypassing LLM inference costs and reserving vision models strictly for image payloads. | `Next.js 16` `TypeScript` `DeepSeek` `Supabase` `WasenderAPI` |
-| **[Multi-Model Agent Harness](https://github.com/TheNonFungibleHuman/multi-model-agent-harness)** <br><sub>*Routing & Cost Governance Layer*</sub> | • Built an infrastructure routing and cost-governance layer for terminal-based coding workflows (Grok Build), managing **4 isolated model configs** across **3 switchable environments** and 6 skill configurations.<br>• Engineered an asynchronous Python daemon tracking **3,000+ model inferences** across 198 discrete developer sessions to generate granular cost ledgers mapped to provider rate cards. | `Python` `PowerShell` `Grok Build` `AsyncIO` |
-| **[AniLearn](https://github.com/TheNonFungibleHuman/AniLearn)** <br><sub>*AI Visual Study Companion*</sub> | • Built an end-to-end visual mental-model companion converting lecture topics into academic breakdowns, annotated diagrams, and interactive tutors.<br>• Engineered a **6-model reasoning fallback cascade** and **4-model image cascade**, SSE token streaming, and a 3-tier recovery pipeline for malformed model JSON.<br>• Designed 4 pedagogical prompt modes: Socratic, reverse-Feynman with clarity scoring, adversarial oral exam, and analogy coaching. | `React 19` `Express 5` `Gemini API` `Tailwind CSS` `Vite` |
-| **[TrustFlow](https://github.com/TheNonFungibleHuman/trustflow) / [TrustR Protocol](https://github.com/TheNonFungibleHuman/trustr-protocol)** <br><sub>*Fintech Innovation Challenge Winner 2026*</sub> | • Awarded by **Mauritius Africa Fintech Hub** among competing regional teams.<br>• Developed TrustFlow: a hybrid on-chain/off-chain invoice-verification registry for MSME trade finance, designed to eliminate the verification trust gap between commercial banks and SMEs. | `TypeScript` `Next.js` `Smart Contracts` `Fintech Architecture` |
-| **[Blocknauts LMS](https://github.com/TheNonFungibleHuman/Course-Management-Full-Stack)** <br><sub>*Custom Learning Management Platform*</sub> | • Engineered a production LMS replacing manual spreadsheet operations end-to-end; deployed an 8-week curriculum to **200+ registered users** and **70+ active learners** across 4 countries.<br>• Executed a **zero-downtime production database migration** of student records from Firebase to Supabase Postgres via an idempotent migration script equipped with custom data integrity verification tools. | `React` `TypeScript` `Supabase Postgres` `Sanity CMS` `Vitest` |
-| **MediCare Clinic** <br><sub>*Desktop Appointment & Billing System*</sub> | • Co-engineered a clinic management system with transactional ACID compliance and automated rollback handling across multi-table writes.<br>• Authored **57 unit tests** using JUnit 5 and dependency injection with `java.time.Clock` to build deterministic, time-zone-independent test cases validating overlapping doctor shifts. | `Java` `JavaFX` `SQLite` `JDBC` `JUnit 5` |
-
----
-
 ### 🛠️ Technical Arsenal
 
 #### **Languages**
