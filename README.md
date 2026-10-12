@@ -68,7 +68,7 @@ I'm a second-year Computer Science undergrad at ALCHE with a big appetite for st
 
 <div align="center">
 
-💬 *Always open to discussing AI systems architecture, agentic workflows, deterministic parsing, and full-stack engineering.*
+💬 *Always open to discussing Blockchains, Startups and AI*
 
 **[Website](https://www.hanifolayiwola.com)** · **[LinkedIn](https://linkedin.com/in/hanifolayiwola)** · **[Email](mailto:thenfh2022@gmail.com)** · **[Medium](https://medium.com/@thenfh2022)**
 
