@@ -83,20 +83,6 @@ I build **deterministic software systems** and **autonomous LLM orchestration pi
 
 ---
 
-### 🔬 Research & Leadership
-
-* **Research Team Member — AI Working Group, ALCHE** *(Jun 2025 – Present)*
-  * Collaborated in the development of an institutional RAG pipeline, boosting context-aware document synthesis.
-  * Co-drafted university-level AI governance policies establishing benchmarks for privacy, integrity, and ethical model deployment.
-* **Residential Operations & Experience Lead Intern — ALCHE** *(Jan 2026 – Present)*
-  * Lead a 9-person Operations and Experience unit managing campus life and welfare for **150+ students**.
-  * Serve as first-responder for campus incidents and emergency protocols before senior escalation.
-* **Founder & President — The Blockchain Society, ALCHE**
-  * Recognized with **Best Club of the Year 2025** at the African Leadership College of Higher Education.
-* **Awards:** Winner, **Fintech Innovation Challenge 2026** (Mauritius Africa Fintech Hub) · **Community Giveback Champion 2026** (ALCHE).
-
----
-
 <div align="center">
 
 💬 *Always open to discussing AI systems architecture, agentic workflows, deterministic parsing, and full-stack engineering.*
