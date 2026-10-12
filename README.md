@@ -16,13 +16,9 @@ BSc. Computer Science @ [African Leadership College of Higher Education (ALCHE)]
 
 ---
 
-### ⚡ Executive Summary
+### ⚡ About Me
 
-I build **deterministic software systems** and **autonomous LLM orchestration pipelines**. My work sits at the intersection of robust backend architecture and applied AI engineering: moving systems from conceptual prototypes to high-availability production with strict testing discipline, zero-downtime data migrations, and automated validation.
-
-* **Deterministic AI & Token Economics:** Designing 0-token parsing fallbacks (e.g., native zlib stream inflation) before invoking multimodal inference, radically driving down production token expenditure.
-* **Fault-Tolerant Model Cascades:** Architecting multi-model reasoning and image cascades with strict JSON structured outputs, token streaming via SSE, and self-healing schema recovery.
-* **Production Engineering Rigor:** Delivering transactional ACID compliance, automated rollback mechanisms, and dependency-injected test suites (`java.time.Clock`, JUnit 5, Vitest).
+I'm a second-year Computer Science undergrad at ALCHE with a big appetite for startups, AI, and blockchain. I spend most of my days building real systems from scratch—orchestrating AI agents with deterministic fallbacks, experimenting with decentralized architecture, and shipping robust full-stack web apps. I love the thrill of moving fast from 0 to 1, but I'm big on building software the right way: with strict testing, clean system design, and architectures that scale.
 
 ---
 
